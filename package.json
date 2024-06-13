@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^10.3.9",
+    "@nestjs/throttler": "^5.1.2",
+    "axios": "^1.7.2",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "file-loader": "^6.2.0",
+    "typescript": "^5.4.5",
+    "worker-loader": "^3.0.8"
+  }
+}
